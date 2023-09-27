@@ -7,11 +7,11 @@ This project contains 2 projects and the first photo below is created using HTML
 # 1st Project
 
 <p>
-  <img src="/better-photos/images/social-editor.png" alt="Screen 1" height="500">
+  <img src="/images/social-editor.png" alt="Screen 1" height="500">
 </p>
 
 # 2nd Project
 
 <p>
-  <img src="/better-photos/images/better-photos.png" alt="Screen 2" height="500">
+  <img src="/images/better-photos.png" alt="Screen 2" height="500">
 </p>
